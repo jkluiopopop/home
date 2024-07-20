@@ -18,5 +18,10 @@
     "icon": "Comments",
     "name": "AI对话",
     "link": "https://ai-web.musefane.com/"
+  },
+  {
+    "icon": "breadslice",
+    "name": "做饭指南",
+    "link": "https://cook.musefane.com/"
   }
 ]
