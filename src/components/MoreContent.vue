@@ -1,5 +1,5 @@
 <template>
-  <div class="more-content">我也不知道有什么可说的呢。你呢？</div>
+  <div class="more-content">我也不知道有什么可说的。你呢？</div>
 </template>
 
 <style lang="scss" scoped>
