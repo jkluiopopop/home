@@ -1,12 +1,22 @@
 [
   {
+    "icon": "Compass",
+    "name": "导航",
+    "link": "https://homepage.musefane.com/"
+  },
+  {
     "icon": "Blog",
     "name": "博客",
     "link": "https://musefane.com/"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "icon": "Book",
+    "name": "FVTT跑团",
+    "link": "https://fvtt.musefane.com/"
+  },
+  {
+    "icon": "Book",
+    "name": "AI对话",
+    "link": "https://ai-web.musefane.com/"
   }
 ]
