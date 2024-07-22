@@ -18,5 +18,10 @@
     "icon": "Hamburger",
     "name": "做饭指南",
     "link": "https://cook.musefane.com/"
+  },
+  {
+    "icon": "Cloud",
+    "name": "网盘",
+    "link": "https://netdisk.musefane.com/"
   }
 ]
