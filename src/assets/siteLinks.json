@@ -25,13 +25,13 @@
     "link": "https://cook.musefane.com/"
   },
   {
+    "icon": "Beer",
+    "name": "SillyTavern酒馆",
+    "link": "https://sillytavern.musefane.com/"
+  },
+  {
     "icon": "Comments",
     "name": "AI对话",
     "link": "https://webai.musefane.com/"
-  },
-  {
-    "icon": "Beer",
-    "name": "酒馆",
-    "link": "https://sillytavern.musefane.com/"
   }
 ]
