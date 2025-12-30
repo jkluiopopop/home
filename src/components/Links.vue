@@ -72,6 +72,8 @@ const siteIcon = {
   LaptopCode,
   Comments,
   Hamburger,
+  DiceD20,
+  Beer
 };
 
 // 链接跳转
