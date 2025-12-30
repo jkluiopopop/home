@@ -10,9 +10,19 @@
     "link": "https://netdisk.musefane.com/"
   },
   {
-    "icon": "Book",
+    "icon": "BookOpen",
     "name": "FVTT跑团",
     "link": "https://fvtt.musefane.com/"
+  },
+  {
+    "icon": "Book",
+    "name": "5e不全书",
+    "link": "https://5echm.musefane.com/"
+  },
+  {
+    "icon": "Hamburger",
+    "name": "做饭指南",
+    "link": "https://cook.musefane.com/"
   },
   {
     "icon": "Comments",
@@ -20,18 +30,8 @@
     "link": "https://webai.musefane.com/"
   },
   {
-    "icon": "Hamburger",
-    "name": "做饭指南",
-    "link": "https://cook.musefane.com/"
-  },
-    {
     "icon": "Beer",
-    "name": "酒馆",
+    "name": "SillyTavern酒馆",
     "link": "https://sillytavern.musefane.com/"
-  }，
-    {
-    "icon": "Comments",
-    "name": "5e不全书",
-    "link": "https://5echm.musefane.com/"
-  }
+  },
 ]
